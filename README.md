@@ -1,2 +1,2 @@
 # Javascript-functions-cheatsheet
-Exploring Github Codespace for writing code in VM instance 🥶
+Exploring Github Codespaces for writing code in VM instance 🥶
